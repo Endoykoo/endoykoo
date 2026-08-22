@@ -1,5 +1,5 @@
 # 💫 About Me:
-Endo (Endoyko)<br>I build fun stuff for fun. Lua, HTML, JS, Python, Flask, C++ — whatever gets the job done.<br>Mostly game scripts, small web apps, and random projects that sounded cool at the time. Look around.
+Endo (Endoyko)<br>I build fun stuff for fun. Lua, HTML, JS, Python, Flask, C++
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/endoyko_)
